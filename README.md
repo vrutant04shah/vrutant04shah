@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Vrutant
-- 👀 I’m interested in competitive coding as well as backend
-- 🌱 I’m currently learning python and C
+- 👋 Hi, I’m Vrutant Shah
+- 👀 I’m interested in competitive coding, backend, frontend and data management
+- 🌱 I’m efficient in C++, C and Python
 - 💞️ I’m looking to collaborate on begineer and intermediate projects
 - 📫 My email is vrutant.shah.4@gmail.com
 
